@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T3iYX91Ih44j/Wb1BrGh/9NOW6s2I1nWxA27aqL0nSA=",
+  "Hash": "HDeVhmGHnEFG+bdlcuKi5cFheZiru8TdFgm2I1uIm+M=",
   "Source": "Fugazi",
   "BasePath": "_content/Fugazi",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/stuartwilson/Projects/Fugazi/Fugazi/obj/Debug/net6.0/scopedcss/projectbundle/Fugazi.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/stuartwilson/Projects/Fugazi/Fugazi/wwwroot/.DS_Store",
+      "SourceId": "Fugazi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/stuartwilson/Projects/Fugazi/Fugazi/wwwroot/",
+      "BasePath": "_content/Fugazi",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/stuartwilson/Projects/Fugazi/Fugazi/wwwroot/css/perfect-scrollbar.css",

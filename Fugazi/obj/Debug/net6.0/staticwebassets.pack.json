@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/Fugazi.bundle.scp.css"
     },
     {
+      "Id": "/Users/stuartwilson/Projects/Fugazi/Fugazi/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/stuartwilson/Projects/Fugazi/Fugazi/wwwroot/css/perfect-scrollbar.css",
       "PackagePath": "staticwebassets/css/perfect-scrollbar.css"
     },
