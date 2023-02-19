@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BAB97308-8CC2-4815-ADD7-5BE47E63AD10}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fugazi/Pages/Index.cshtml">
+    <Files>
+      <File FileName="Fugazi/Pages/Index.cshtml" Line="6" Column="1" />
+      <File FileName="Fugazi/Pages/Shared/_Layout.cshtml" />
+      <File FileName="Fugazi/Models/Person.cs" Line="7" Column="16" />
+      <File FileName="Fugazi/Program.cs" Line="1" Column="1" />
+      <File FileName="Fugazi/Fugazi.csproj" Line="5" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fugazi" expanded="True">
+            <Node name="Fugazi" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fugazi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

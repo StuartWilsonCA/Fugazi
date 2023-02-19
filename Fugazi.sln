@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fugazi", "Fugazi\Fugazi.csproj", "{BAB97308-8CC2-4815-ADD7-5BE47E63AD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB97308-8CC2-4815-ADD7-5BE47E63AD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB97308-8CC2-4815-ADD7-5BE47E63AD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB97308-8CC2-4815-ADD7-5BE47E63AD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB97308-8CC2-4815-ADD7-5BE47E63AD10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0E51AA-8275-4204-8B9D-0E6056376E74}
+	EndGlobalSection
+EndGlobal
